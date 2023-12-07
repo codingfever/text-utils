@@ -1,7 +1,8 @@
 function Editor(){
     return (
         <>
-        <p>lorem500</p>
+        <input type="text" placeholder="name"/>
+        
         </>
     );
 }
